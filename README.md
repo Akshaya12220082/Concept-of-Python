@@ -77,7 +77,7 @@ Checking membership with in keyword, Set comprehension
 Adv set operations and examples
 
 
-#INTERNSHIP PHASE-1 (FUTURENSE TECHNOLOGIES)
+# INTERNSHIP PHASE-1 (FUTURENSE TECHNOLOGIES)
 DAY WISE WORK
 
 6th June - Created github account and studied how to (clone, create, push, pull, commit) and git and github
