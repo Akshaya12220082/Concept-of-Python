@@ -76,7 +76,8 @@ Set methods - add(), remove(), discard(), clear(), etc
 Checking membership with in keyword, Set comprehension
 Adv set operations and examples
 
-INTERNSHIP PHASE-1 (FUTURENSE TECHNOLOGIES)
+
+#INTERNSHIP PHASE-1 (FUTURENSE TECHNOLOGIES)
 DAY WISE WORK
 
 6th June - Created github account and studied how to (clone, create, push, pull, commit) and git and github
@@ -87,13 +88,21 @@ revsied python basics and functions
 8th June - learning Inheritance and exception handling and also
 Flask-creating apis to insert, delete, update, get data from a database
 
-9th June - sets, tuple, dictionary, sets
+10th June - sets, tuple, dictionary, sets
 
-10th June - discussed regarding the project with team members and defining the idea and whole concept and tech stack fronted and backend for the mini project
+11th June - discussed regarding the project with team members and defining the idea and whole concept and tech stack fronted and backend for the mini project
 
-11th June - worked on the tech stack asigned and watched some youtube videos to learn the tech stack
+12th June - worked on the tech stack asigned and watched some youtube videos to learn the tech stack
 
-12th June - done setup with flask and frontend and started with creating API's 
+13th June - done setup with flask and frontend and started with creating API's and learning supabase
+
+14th June - Thought of AI integrations and worked on ATS(application tracking system) 
+
+15th June - created an ATS for apna.ai which shows the percentage match of the resume with the job description
+
+
+
+
 
 
 
